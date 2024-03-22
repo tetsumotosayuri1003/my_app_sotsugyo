@@ -91,6 +91,3 @@ MVPリリースまで<br />
 
 ## ■画面遷移図
 https://www.figma.com/file/jPM6ziKqWkLGYXQIXWjORR/Untitled?type=design&node-id=0-1&mode=design&t=Z8FKQIRVAhGlgVSB-0
-
-## ■ER図
-https://dbdiagram.io/d/65fbcd3dae072629ce93c3d2
